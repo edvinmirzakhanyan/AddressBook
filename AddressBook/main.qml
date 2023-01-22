@@ -5,8 +5,8 @@ import QtQuick.Controls 2.5
 import QtQuick.Layouts 1.0
 
 Window {
-    width: 1000
-    height: 480
+    minimumWidth: 1000
+    minimumHeight: 480
     visible: true
     title: qsTr("Address Book")
 
